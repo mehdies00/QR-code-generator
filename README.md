@@ -1,7 +1,4 @@
-# QR-code-generator
-Voici ton texte **sans les numéros**, propre et bien formaté 👇
 
----
 
 # Générateur de QR Code en Python
 
